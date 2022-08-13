@@ -1,6 +1,4 @@
-2022/08/12-22:13:44.518 26d0 Creating DB C:\Users\O Deus Supremo\Documents\VsCode\Trabalho\ws-sender-dev\tokens\Test\Default\File System\Origins since it was missing.
-2022/08/12-22:13:44.532 26d0 Recovering log #7
-2022/08/12-22:13:44.533 26d0 Level-0 table #3: started
-2022/08/12-22:13:44.537 26d0 Level-0 table #3: 181 bytes OK
-2022/08/12-22:13:44.552 26d0 Delete type=0 #7
-2022/08/12-22:13:44.552 26d0 Delete type=3 #1
+2022/08/13-19:39:43.073 21ec Creating DB C:\Users\Rocha\Documents\API Whatsapp\ChatBotWhatsapp2\tokens\Test\Default\File System\Origins since it was missing.
+2022/08/13-19:39:43.096 21ec Reusing MANIFEST C:\Users\Rocha\Documents\API Whatsapp\ChatBotWhatsapp2\tokens\Test\Default\File System\Origins/MANIFEST-000001
+2022/08/13-19:39:43.096 21ec Recovering log #13
+2022/08/13-19:39:43.097 21ec Reusing old log C:\Users\Rocha\Documents\API Whatsapp\ChatBotWhatsapp2\tokens\Test\Default\File System\Origins/000013.log 
